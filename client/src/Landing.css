@@ -1,0 +1,52 @@
+.Landing {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 55px;
+
+
+}
+
+.Landing-logo {
+    padding-top: 20px;
+    width: 60%;
+    align-self: center;
+
+}
+
+.Landing-arrow {
+    width: 20%;
+    align-self: center;
+
+}
+
+.home-icon {
+    width: 15%;
+    position: fixed;
+    bottom: 0;
+    align-self: center;
+
+}
+
+h1 {
+    padding-top: 40px;
+}
+
+p {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.login {
+    position: fixed;
+    bottom: 15%;
+    right: 55%;
+    align-self: right;
+}
+
+.createAccount {
+    position: fixed;
+    bottom: 15%;
+    left: 55%;
+    align-self: left;
+}

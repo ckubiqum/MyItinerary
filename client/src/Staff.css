@@ -1,0 +1,21 @@
+img {
+    width: 98%;
+    align-self: center;
+}
+
+.staff-list {
+    padding-top: 55px;
+    text-align: center;
+
+}
+
+h1 {
+    padding-top: 0px !important;
+}
+
+.staff {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 40px;
+}
